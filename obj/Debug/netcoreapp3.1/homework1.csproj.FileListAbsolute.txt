@@ -1,0 +1,13 @@
+/Users/duyguhasanzade/Projects/homework1/homework1/bin/Debug/netcoreapp3.1/homework1.deps.json
+/Users/duyguhasanzade/Projects/homework1/homework1/bin/Debug/netcoreapp3.1/homework1.runtimeconfig.json
+/Users/duyguhasanzade/Projects/homework1/homework1/bin/Debug/netcoreapp3.1/homework1.runtimeconfig.dev.json
+/Users/duyguhasanzade/Projects/homework1/homework1/bin/Debug/netcoreapp3.1/homework1.dll
+/Users/duyguhasanzade/Projects/homework1/homework1/bin/Debug/netcoreapp3.1/homework1.pdb
+/Users/duyguhasanzade/Projects/homework1/homework1/obj/Debug/netcoreapp3.1/homework1.csproj.AssemblyReference.cache
+/Users/duyguhasanzade/Projects/homework1/homework1/obj/Debug/netcoreapp3.1/homework1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/duyguhasanzade/Projects/homework1/homework1/obj/Debug/netcoreapp3.1/homework1.AssemblyInfoInputs.cache
+/Users/duyguhasanzade/Projects/homework1/homework1/obj/Debug/netcoreapp3.1/homework1.AssemblyInfo.cs
+/Users/duyguhasanzade/Projects/homework1/homework1/obj/Debug/netcoreapp3.1/homework1.csproj.CoreCompileInputs.cache
+/Users/duyguhasanzade/Projects/homework1/homework1/obj/Debug/netcoreapp3.1/homework1.dll
+/Users/duyguhasanzade/Projects/homework1/homework1/obj/Debug/netcoreapp3.1/homework1.pdb
+/Users/duyguhasanzade/Projects/homework1/homework1/obj/Debug/netcoreapp3.1/homework1.genruntimeconfig.cache
